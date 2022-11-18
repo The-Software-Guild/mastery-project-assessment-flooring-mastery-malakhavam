@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+4,Ana Cabrera,CA,66.08,Wood,150,772.50,712.50,772.50,712.50,371.25,1856.25
+6,Noemi Gonsalez,WA,89.87,Tile,127,444.50,527.05,444.50,527.05,89.87,1061.42
+7,Dana Borisova,CA,382.50,Tile,200,700.00,830.00,700.00,830.00,382.50,1912.50

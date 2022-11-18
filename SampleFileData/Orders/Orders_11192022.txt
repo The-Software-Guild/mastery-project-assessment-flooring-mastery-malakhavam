@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+5,Irina Smith,TX,21.29,Carpet,110,247.50,231.00,247.50,231.00,21.29,499.79
+8,Manuel Hidalgo,KY,25.64,Laminate,111,194.25,233.10,194.25,233.10,25.64,452.99
+9,Natalia Bareisha,WA,127.29,Wood,139,715.85,660.25,715.85,660.25,127.29,1503.39
